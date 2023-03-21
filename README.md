@@ -153,26 +153,7 @@ option are
 
 other should be clear from name
 
-#### Is There a Paid version Available?
-
-Yes it's called donation version 
-
-### Donate Me
-> ***My ETH wallet address***
-```
-0x0fBcb24DC8588c63bdbC126e2192aB609c7dF528
-```
-> ***My BTC wallet address***
-```
-bc1qgfqtujdmdeaky0n80rswnfv8p7x62shspfl9rc
-```
-> ***My upi id***
-```
-Saif.9@paytm
-```
-
-<a href="https://ko-fi.com/saifalisew1508" class="padded"><img height="30" style="border:0px;height:30px;" align="left" alt="saifalisew1508" src="https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0" /></a>
-<a href="https://www.paypal.me/saifalisew1508" class="padded"><img height="30" style="border:0px;height:30px;" align="centre" alt="saifalisew1508" src="https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg" /></a>
+#### Is There a Paid version Available
 
 ### Warning
 
@@ -182,16 +163,16 @@ Saif.9@paytm
 
 > ***I have also created another paid version to add members for buy message at telegram***
 
-[![Telegram Contact](https://img.shields.io/badge/Telegram-Contact-brightgreen)](https://t.me/saifalisew15O8) 
-[![Telegram Contact](https://img.shields.io/badge/Telegram-Contact-brightgreen)](https://t.me/PrinceXofficial) 
+[![Telegram Contact](https://img.shields.io/badge/Telegram-Contact-brightgreen)](https://t.me/d3vilgulshan) 
+[![Telegram Contact](https://img.shields.io/badge/Telegram-Contact-brightgreen)](https://t.me/d3vilgulshan) 
 > ***If you have any problems regarding the script then write it in this groupchat:***
 
-[![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/PublicSource_Chat)
-[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/ABOUT_SAIF)
+[![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/d3villians)
+[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/ABOUTGULSHAN)
 
 
 <h2 align="center">Visitors Counts👀</h2>
-<a href="https://github.com/saifalisew1508/TelegramAdderTool"><img alt="Cute Count" src="https://count.getloli.com/get/@TelegramAdderTool?theme=rule34" /></a>
+<a href="https://github.com/d3vilgulshan/TelegramAdderTool"><img alt="Cute Count" src="https://count.getloli.com/get/@TelegramAdderTool?theme=rule34" /></a>
 
 
 ## Contributing:
